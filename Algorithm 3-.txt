@@ -1,0 +1,18 @@
+#Pseudo Code for Algorithm 3:-
+
+Loop through each student in the student list.
+Display a message asking the user to enter the minimum score to filter students.
+Use the input threshold to call the showStudentsBelowScore(threshold) method.
+For each student, check if their score is less than the provided threshold.
+If the student’s score is below the threshold, print or store the student’s details.
+If no students have scores below the threshold, display an appropriate message.
+
+
+
+
+
+#Pseudo Code for Algorithm 4:-
+
+Evaluate whether the user's input (option) equals 3.
+Print the message "Goodbye!" to inform the user that the program is about to terminate.
+Use the break statement to exit the loop, which effectively stops the program from continuing any further operations.
